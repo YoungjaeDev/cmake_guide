@@ -5,5 +5,5 @@ docker run \
 	--rm \
 	--gpus all \
 	--net=host\
-	-v ~/workspace/cmake_tutorial:/workspace/cmake_tutorial \
+	-v ~/workspace/cmake_guide:/workspace/cmake_guide \
 	ubuntu:latest
